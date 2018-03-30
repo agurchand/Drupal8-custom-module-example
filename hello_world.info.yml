@@ -1,0 +1,6 @@
+name: Hello World
+description: Just a Simple Hello world Drupal 8 Module
+core: 8.x
+version: 1.0
+type: module
+package: Custom
